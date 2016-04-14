@@ -1,0 +1,16 @@
+{
+    "name": "premadegames/ssp",
+    "version": "1.0.0",
+    "type": "pagekit-extension",
+    "title": "Social Share Privacy",
+    "description": "Heise.de's social widget with two way privacy function!",
+    "license": "MIT",
+    "authors": [{
+        "name": "PremadeGames",
+        "email": "support@premadegames.net",
+        "homepage": "http://premadegames.net"
+    }],
+    "extra": {
+        "icon": "icon.jpg"
+    }
+}
