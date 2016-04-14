@@ -13,3 +13,19 @@ first has to enable the social plugin before it can even be loaded.
 1.0.0 - 14.04.2016
 First release
 
+## Credits
+### Programming
+Premade Games
+Andreas Heimann
+http://premadegames.net
+
+### CMS System
+Pagekit by YOOtheme
+http://pagekit.com
+
+### Social Share Plugin
+Original by Heise.de
+http://www.heise.de/extras/socialshareprivacy/
+
+Fork by Patrick Heck
+https://github.com/patrickheck/socialshareprivacy/
